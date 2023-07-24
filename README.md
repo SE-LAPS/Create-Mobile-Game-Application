@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game 📲🌟
 
 A new Flutter project.
 
